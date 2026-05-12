@@ -16,9 +16,9 @@ It focuses on managing multiple CMD sessions in a single, polished desktop inter
 - Close-to-tray behavior with quick restore and new-session actions
 - Convenience command shortcuts such as `cd...` for moving up multiple parent directories
 
-## Screenshot
+## Download
 
-![TermDock UI](uidemo.png)
+Download the latest Windows package from GitHub Releases, unzip it, and run `TermDock.exe`.
 
 ## Requirements
 
