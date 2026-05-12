@@ -1,0 +1,51 @@
+# Build outputs
+build/
+build-*/
+out/
+cmake-build-*/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# Visual Studio generated files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.ipch
+*.tlog
+*.lastbuildstate
+*.recipe
+
+# Binaries and debug symbols
+*.exe
+*.dll
+*.lib
+*.exp
+*.obj
+*.pdb
+*.ilk
+*.idb
+
+# Qt generated files
+*_autogen/
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+.vscode/
+.idea/
